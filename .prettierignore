@@ -1,0 +1,7 @@
+*.env
+.env
+.env.*
+
+/.vsocde
+/node_modules
+/distre
